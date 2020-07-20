@@ -1,6 +1,6 @@
 ---
 title: "Clustering Techniques with Mixed Type of Data"
-date: 2020-07-20 09:01:00 +0600
+date: 2020-07-20 09:01:00 -0600
 ---
 
 
