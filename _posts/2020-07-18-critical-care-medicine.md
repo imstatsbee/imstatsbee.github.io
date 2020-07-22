@@ -7,3 +7,9 @@ date: 2020-07-17 20:00:00 -0600
 * mimic-iii
 * performance evaluation 
 
+* Baxter Critical Care - https://www.baxter.ca/healthcare-professionals/critical-care
+* text summarization
+* classification
+
+https://ir.ymlib.yonsei.ac.kr/
+
