@@ -20,7 +20,7 @@ plugins:
 
 # Theme-specific settings
 
-minima:
+# minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
@@ -54,3 +54,12 @@ minima:
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
+
+
+# New by Chel 
+markdown: kramdown
+github_username: imstatsbee
+
+collections:
+  cookies:
+    output: true

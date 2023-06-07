@@ -1,7 +1,7 @@
 ---
 layout: post
-title: R works 
-date: 2023-06-06 08:26:28 -0400
+title: "R Implementations"
+date: 2023-06-04 08:26:28 -0400
 ---
 
 

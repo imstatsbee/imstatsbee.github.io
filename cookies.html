@@ -1,0 +1,18 @@
+---
+layout: page
+title: Cookies
+---
+
+There are three models 
+
+{% for cookie in site.cookies %}
+  <div>
+    <h2><a href="{{ cookie.url }}">{{ cookie.title }}</a></h2>
+  </div>
+{% endfor %}
+
+{% for cookie in site.cookies %}
+  <h2>{{ cookie.url }} - {{ cookie.title }}</h2>
+  * <a href="{{ cookie.baseurl }}{{ cookie.url }}">{{ cookie.title }}</a>
+{% endfor %}
+
