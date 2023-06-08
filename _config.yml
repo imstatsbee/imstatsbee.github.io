@@ -61,5 +61,5 @@ markdown: kramdown
 github_username: imstatsbee
 
 collections:
-  cookies:
+  models:
     output: true

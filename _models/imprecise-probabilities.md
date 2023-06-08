@@ -1,6 +1,6 @@
 ---
-layout: cookie
-title: imprecise probabilities
+layout: model
+title: Imprecise Probabilities
 ---
 
 ## Software 

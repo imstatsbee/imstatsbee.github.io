@@ -1,5 +1,5 @@
 ---
-layout: cookie
+layout: model
 title: Joint model
 ---
 
