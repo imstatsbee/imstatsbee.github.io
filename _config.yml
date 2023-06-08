@@ -63,3 +63,5 @@ github_username: imstatsbee
 collections:
   models:
     output: true
+  tools:
+    output: true
