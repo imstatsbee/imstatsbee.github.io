@@ -1,4 +1,0 @@
----
-title: "Generalized Estimating Equation"
----
-
